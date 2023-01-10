@@ -1,0 +1,13 @@
+name: CustomPrefix
+main: io.github.idknicks.customprefix.Plugin
+author: idkNicks
+
+version: 1.0.0
+api-version: 1.13
+
+softdepend: [ NickLib ]
+
+commands:
+  prefix:
+    aliases: [ 칭호 ]
+    description: 칭호 명령어
